@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/moviland/static/css/main.d74d10b9.css",
+    "main.js": "/moviland/static/js/main.09867b58.js",
+    "index.html": "/moviland/index.html",
+    "main.d74d10b9.css.map": "/moviland/static/css/main.d74d10b9.css.map",
+    "main.09867b58.js.map": "/moviland/static/js/main.09867b58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d74d10b9.css",
+    "static/js/main.09867b58.js"
+  ]
+}
